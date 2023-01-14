@@ -1,3 +1,17 @@
+# express.js
+
+This example shows how you can use Docker to run the [Create React App](https://github.com/facebook/create-react-app) in a container.
+
+## Instructions
+
+1. Run `build.sh` to build image
+1. Run `start.sh` to start container
+1. Visit http://localhost:3000 view application
+
+### below is the create-react-app README
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
