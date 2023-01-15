@@ -30,3 +30,6 @@ Each example contains a `build.sh` and a `start.sh` with example commands for bu
 - [Nginx](https://github.com/mg3-codes/Docker-Examples/tree/main/web-servers/nginx)
 
 ## Services
+
+- [Cloudflare DDNS](https://github.com/mg3-codes/Docker-Examples/tree/main/services/cloudflare-ddns)
+- [Pihole](https://github.com/mg3-codes/Docker-Examples/tree/main/services/pihole)
