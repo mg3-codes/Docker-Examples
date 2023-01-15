@@ -1,6 +1,6 @@
 # express.js
 
-This example shows how you can use Docker to run the [Create React App](https://github.com/facebook/create-react-app) in a container.
+This example shows how you can use Docker to run the [Create React App](https://github.com/facebook/create-react-appw) in a container.
 
 ## Instructions
 
